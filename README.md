@@ -1,2 +1,2 @@
 # leetcode-daily
-solutions to the leet code problems I attempt daily
+my solutions to the leet code problems I try daily
